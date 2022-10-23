@@ -5,4 +5,4 @@ fs.readdir("./", (err, files) => {
   });
 });
 
-console.log('hh');
+console.log('hh')
